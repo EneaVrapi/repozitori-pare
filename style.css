@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+h3{
+    
+    color: blue;
+}
+img{
+    width: 200px ;
+    
+}
+body{
+    display : flex;
+    flex-direction : column;
+    align-items: center;
+}
+hr{
+    max-width: 800px;
+    width: 100%;
+}
+#trupi{
+    width: 800px;
+    display : flex;
+    flex-direction : column;
+    align-items: center;
+    background-color: lightgray;
+}
